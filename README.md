@@ -55,6 +55,16 @@
 
 4. Open [http://localhost:3000/](http://localhost:3000/)
 
+### DataBase
+
+ - MongoDB
+
+  ```
+  Port: 27017
+  DB: PeerGrade
+  Collection: chat
+  ```
+
 
 ## License
 
